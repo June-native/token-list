@@ -1,0 +1,28 @@
+{
+    "name": "June List",
+    "version":
+    {
+        "major": 1
+    },
+    "keywords":
+    [],
+    "logoURI": "",
+    "timestamp": "2025-01-01T01:01:01.596Z",
+    "tokens":
+    [
+        {
+            "chainId": 80094,
+            "address": "0xEa91132E79559Be0Fcd6b1237DED28a31a226644",
+            "name": "NativeLP-WBERA",
+            "symbol": "NTLP-BERA",
+            "decimals": 18
+        },
+        {
+            "chainId": 80094,
+            "address": "0xa921077A331F36d80E44f914A7AB1b3c9Ea48A4A",
+            "name": "NativeLP-USDC",
+            "symbol": "NTLP-USDC",
+            "decimals": 6
+        }
+    ]
+}
